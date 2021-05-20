@@ -1,2 +1,2 @@
 # HTML Email Template for Scholarship Programs 2021 at IB IT&B
-HTML Email Template for IB IT&amp;B Scholarship Program 2021
+Created HTML Email for marketing purposes at IB IT&B. It supports most email clients to be rendered.
